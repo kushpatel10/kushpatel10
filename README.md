@@ -2,7 +2,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kushpatel10&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-- 🔭 I’m currently working on some opensource projects 
+- 🔭 I’m currently working on Trexo!
 - 🌱 I’m currently learning kotlin and python
 - 📫 How to reach me: my discord username is ghoul.js ( feel free to message me 😉 )
 
